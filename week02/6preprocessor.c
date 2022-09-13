@@ -1,4 +1,10 @@
 /************************
+ * You can use the "-E" option of gcc to get preprocessor output
+ * For example for this file you can run: gcc -E 6preprocessor.c
+ * For other compilers, you can google the appropriate options.
+ * *********************/
+
+/************************
  * Include directive
  * *********************/
 #include <stdio.h>
