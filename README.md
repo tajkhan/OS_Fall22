@@ -9,6 +9,9 @@ The week-wise contents, as we progress,  will be listed here. The codes for each
 2. [Week02](week02/):
 	* string, array of char\*, command line arguments
     * dynamic memory allocation
+    * preprocessor directives
+    * typedef
+    * structures
 3. [Week03](week03/):
 4. [Week04](week04/):
 5. [Week05](week05/):
