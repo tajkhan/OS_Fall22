@@ -9,6 +9,11 @@
  * *********************/
 #include <stdio.h>
 
+
+/*****************
+* remove the line below, or change it to #define DEBUG 0
+* in order to excclude the conditionally compiled code.
+*****************/
 #define DEBUG 1
 
 int div (int a, int b){
