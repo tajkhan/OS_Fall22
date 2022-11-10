@@ -147,4 +147,4 @@ accessible if you connect via your mobile hotspot.)
 
 ## Important
 This is a live document. It will be updated from time to time.
-I will send a mail everytime there is an update so keep wathcing it.
+I will send a mail everytime there is an major update so keep wathcing it.
