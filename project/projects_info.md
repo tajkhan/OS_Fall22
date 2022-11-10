@@ -46,8 +46,8 @@ Create a branch whose name is your groug_id and commit and push
  day.  
 
 
-You setup your environment for Xv6 development. Please follow the
-guide lines provided on the MIT website [5].
+**You setup your environment for Xv6 development. Please follow the
+guide lines provided on the MIT website [5].**
 
 Otherwise, you might need to  install the following components
 manually:  
