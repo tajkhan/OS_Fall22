@@ -11,3 +11,4 @@ The details of the project groups are as follows:
 | gp05     | TBA   | M. Azam (2020284)<br>Jawad Ali (2020189) | [gp05 github link](https://github.com/AliJawad123/CS311_project) | 0 | 0 | 0 | 0 |
 | gp06     | TBA   | Hassan Khalid (2020165) <br> Shahzaib Asghar (2020449) | [gp06 github link](https://github.com/Hassan2922/CS-311-Course-Project.git) | 0 | 0 | 0 |
 | gp13     | TBA   | Rana Abdul Rehman(2020410<br>Sharmeen Javed(2020454)| [github link] https://github.com/Ranaabdulrehman30/os_project.git | 0 | 0 | 0 | 0 |
+| gp05     | TBA   | Fida Ali Baig (2020134)<br>Umar Riaz(2020503) | [gp05 github link](https://github.com/Fida2002/OS311) | 0 | 0 | 0 | 0 |
