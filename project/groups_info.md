@@ -20,4 +20,4 @@ The details of the project groups are as follows:
 | gp14     | TBA   | Abdul Rehman(2020015)<br>Salahuddin Adil (2020426) | [gp14 github link](https://github.com/CodeWithAbd/CS_311_Project) | 0 | 0 | 0 | 0 |
 | gp15     | TBA   | Aima Khattak (2020058)<br>Izhan Shaur Awan (2020186) | [gp15 github link](https://github.com/Midnight29x/OS_Project.git) | 0 | 0 | 0 | 0 |
 | gp16     | TBA   | Fida Ali Baig (2020134)<br>Umar Riaz(2020503) | [gp16 github link](https://github.com/Fida2002/OS311) | 0 | 0 | 0 | 0 |
-| gp17     | TBA   | Imtesal Ameena (2020184)<br>Wardah Shakeel(2020518) | [github link](https://github.com/Wardahhh/OS_Project.git) | 0 | 0 | 0 | 0 |
+| gp17     | TBA   | Muhammad Ibn e Muzammil (2020311)<br>Muhammad Adam(2020261) | [github link](https://github.com/Adam5626/OS_Project.git) | 0 | 0 | 0 | 0 |
