@@ -23,3 +23,4 @@ The details of the project groups are as follows:
 | gp17.    | TBA.  | Abdullah Khan (2020026)<br>Danish(2020104) | [gp17 github link](https://github.com/abdullahkhn77/CS311_Project) | 0 | 0 | 0 | 0 |
 | gp18     | TBA   | Imtesal Ameena (2020184)<br>Wardah Shakeel(2020518) | [github link](https://github.com/Wardahhh/OS_Project.git) | 0 | 0 | 0 | 0 |
 | gp19     | TBA   | Faizaan Talha Ayaz (2020120)<br>Muhammad Hashim (2020303) | [gp19 github link](https://github.com/Cy3ers/CS311_Project) | 0 | 0 | 0 | 0 |
+| gp20     | TBA   | Hamna Iftikhar (2020146)<br>Fatima Ghazenfer (2020129) | [gp20 github link](https://github.com/hamnaiftikhar/OS_Project) | 0 | 0 | 0 | 0 |
