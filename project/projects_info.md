@@ -78,16 +78,14 @@ on [3b] or [3c].
 
 ### The task
 1. You will install the setup to get xv6 running on your PC.   
-2. You will add a new user level program to the OS and show that
-the program can be run from the shell.
-The exact details will be shared after the 1st 
-milestone deadline.
+2. You will modify two user-level program files: [user/cat.c](https://github.com/mit-pdos/xv6-riscv/blob/riscv/user/cat.c) and [user/ls.c](https://github.com/mit-pdos/xv6-riscv/blob/riscv/user/ls.c) in such a way that they both can accept, optionally, the "-n" option. Without the "-n" option these programs should behave as before and whenever the option "-n" is given, they should prepend each line of their output with a line number. The line numbers restart from 1 for every file/directory provided in the command line arguments. If no file/directory names are provided and only the "-n" option is provided, then both the commands should reproduce their original behavior, as if no arguments were provided, but prepending their outputs with line numbers. For convenience, assume that the "-n" option, whenever provided, will be the first argument of the command. (20 marks)
+3. It is important that you get in the habit of working regularly. You can demonstrate this by pushing regular commits of your work to your own github repository. To get full marks, your code repository should have at least 3 commits (the more the better) pushed per week spaced roughly equidistant in time and each containing substantial amounts of work. (10 marks)
 
 ### Submission
-The submission instructions will be conveyed before the deadline.
+The submission instructions will be conveyed before the deadline. For the moment keep pushing commits to your own github repository.
 
 
-## Milestone 3: Add a system call.
+## Milestone 3: ~~Add a system call~~ TBD.
 1. You will add new system call to the OS and access it from a user
 level program. The exact details will be shared after the 2nd
 milestone deadline.
