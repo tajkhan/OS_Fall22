@@ -144,6 +144,8 @@ accessible if you connect via your mobile hotspot.)
 ### Misc xv-6 resoruces
 1. [ucr lab](https://www.cs.ucr.edu/~heng/teaching/cs179f-winter21/lab1.html)
 2. [Adding a system call to xv6](https://medium.com/@mahi12/adding-system-call-in-xv6-a5468ce1b463)
+3. [xv6 code annotated: partial explanations of code](https://github.com/palladian1/xv6-annotated)
+3. [Series of videos explaining xv6 code](https://www.youtube.com/watch?v=fWUJKH0RNFE&list=PLbtzT1TYeoMhTPzyTZboW_j7TPAnjv9XB)
 
 ## Important
 This is a live document. It will be updated from time to time.
