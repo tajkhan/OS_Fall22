@@ -9,7 +9,7 @@ The details of the project groups are as follows:
 | gp03     | TBA   | M. Hassan Ibrar (2020306)<br>Iqra Mueed (2020185) | [gp03 github link](https://github.com/Hassanibrar632/OS_PROJECT) | 0 | 0 | 0 | 0 |
 | gp04     | TBA   | Faiza Qadir (2020119)<br>Muhammad Ahtasham (2020270) | [gp05 github link](https://github.com/Muhammad-Ahtasham/Xv6-OS-PROJECT-) | 0 | 0 | 0 | 0 |
 | gp05     | TBA   | M. Azam (2020284)<br>Jawad Ali (2020189) | [gp05 github link](https://github.com/AliJawad123/CS311_project) | 0 | 0 | 0 | 0 |
-| gp06     | TBA   | Hassan Khalid (2020165) <br> Shahzaib Asghar (2020449) | [gp06 github link](https://github.com/Hassan2922/CS-311-Course-Project.git) | 0 | 0 | 0 |
+| gp06     | TBA   | Hassan Khalid (2020165) <br> Shahzaib Asghar (2020449) | [gp06 github link](https://github.com/shahzaib-123/OS2022_xv6.git) | 0 | 0 | 0 |
 | gp07     | TBA   | Muhammad Owais (2020337)<br>Daniyal Ahmed Chaudhary (2020109) | [gp07 github link](https://github.com/MuhammadOwais02/OS_Project.git) | 0 | 0 | 0 | 0 |
 | gp08     | TBA   | Muhammad Shazil Javed (2020358)<br>Muhammad Bin Murad 2 (2020904) | [gp08 github link](https://github.com/sh2020358/OS-PROJECT-) | 0 | 0 | 0 | 0 |
 | gp09     | TBA   | MUHAMMAD SHEES (2020359)<br>ZOHAIB KHALID (2020532) | [gp09 github link](https://github.com/Shees69x/OS-PROJECT) | 0 | 0 | 0 | 0 |
@@ -22,3 +22,7 @@ The details of the project groups are as follows:
 | gp16     | TBA   | Fida Ali Baig (2020134)<br>Umar Riaz(2020503) | [gp16 github link](https://github.com/Fida2002/OS311) | 0 | 0 | 0 | 0 |
 | gp17.    | TBA.  | Abdullah Khan (2020026)<br>Danish(2020104) | [gp17 github link](https://github.com/abdullahkhn77/CS311_Project) | 0 | 0 | 0 | 0 |
 | gp18     | TBA   | Imtesal Ameena (2020184)<br>Wardah Shakeel(2020518) | [github link](https://github.com/Wardahhh/OS_Project.git) | 0 | 0 | 0 | 0 |
+| gp19     | TBA   | Faizaan Talha Ayaz (2020120)<br>Muhammad Hashim (2020303) | [gp19 github link](https://github.com/Cy3ers/CS311_Project) | 0 | 0 | 0 | 0 |
+| gp20     | TBA   | Muhammad Adam Ch (2020261)<br>Muhammad Ibn e Muzammil (2020311) | [gp20 github link](https://github.com/Adam5626/OS_Fall22.git) | 0 | 0 | 0 | 0 |
+| gp21     | TBA   | Hamna Iftikhar (2020146)<br>Fatima Ghazenfer (2020129) | [gp21 github link](https://github.com/hamnaiftikhar/OS_Project) | 0 | 0 | 0 | 0 |
+| gp22     | TBA   | Mehak Kanwal (2020231)<br>Ahmed Hamid (2020052) | [gp22 github link](https://github.com/MehakKanwal30/OS_Project.git) | 0 | 0 | 0 | 0 |
