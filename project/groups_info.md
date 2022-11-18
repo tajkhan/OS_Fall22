@@ -9,7 +9,7 @@ The details of the project groups are as follows:
 | gp03     | TBA   | M. Hassan Ibrar (2020306)<br>Iqra Mueed (2020185) | [gp03 github link](https://github.com/Hassanibrar632/OS_PROJECT) | 0 | 0 | 0 | 0 |
 | gp04     | TBA   | Faiza Qadir (2020119)<br>Muhammad Ahtasham (2020270) | [gp05 github link](https://github.com/Muhammad-Ahtasham/Xv6-OS-PROJECT-) | 0 | 0 | 0 | 0 |
 | gp05     | TBA   | M. Azam (2020284)<br>Jawad Ali (2020189) | [gp05 github link](https://github.com/AliJawad123/CS311_project) | 0 | 0 | 0 | 0 |
-| gp06     | TBA   | Hassan Khalid (2020165) <br> Shahzaib Asghar (2020449) | [gp06 github link](https://github.com/Hassan2922/CS-311-Course-Project.git) | 0 | 0 | 0 |
+| gp06     | TBA   | Hassan Khalid (2020165) <br> Shahzaib Asghar (2020449) | [gp06 github link](https://github.com/shahzaib-123/OS2022_xv6.git) | 0 | 0 | 0 |
 | gp07     | TBA   | Muhammad Owais (2020337)<br>Daniyal Ahmed Chaudhary (2020109) | [gp07 github link](https://github.com/MuhammadOwais02/OS_Project.git) | 0 | 0 | 0 | 0 |
 | gp08     | TBA   | Muhammad Shazil Javed (2020358)<br>Muhammad Bin Murad 2 (2020904) | [gp08 github link](https://github.com/sh2020358/OS-PROJECT-) | 0 | 0 | 0 | 0 |
 | gp09     | TBA   | MUHAMMAD SHEES (2020359)<br>ZOHAIB KHALID (2020532) | [gp09 github link](https://github.com/Shees69x/OS-PROJECT) | 0 | 0 | 0 | 0 |
