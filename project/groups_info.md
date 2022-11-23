@@ -17,7 +17,7 @@ The details of the project groups are as follows:
 | gp11     | TBA   | Ahsham Abdullah (2020057)<br>Ahmad Hassan (2020053) | [gp11 github link](https://github.com/tajkhan/xv6-riscv-os-fall22) | 0 | 0 | 0 | 0 |
 | gp12     | TBA   | Ahmad Arshad (2020044)<br>Abdullah Khan (2020024) | [gp12 github link](https://github.com/ahmedar5had/OS_Fall22/tree/main/project) | 0 | 0 | 0 | 0 |
 | gp13     | TBA   | Rana Abdul Rehman(2020410<br>Sharmeen Javed(2020454)| [github link] https://github.com/Ranaabdulrehman30/os_project.git | 0 | 0 | 0 | 0 |
-| gp14     | TBA   | Abdul Rehman(2020015)<br>Salahuddin Adil (2020426) | [gp14 github link](https://github.com/CodeWithAbd/CS_311_Project) | 0 | 0 | 0 | 0 |
+| gp14     | TBA   | Abdul Rehman(2020015)<br>Salahuddin Adil (2020426) | [gp14 github link](https://github.com/CodeWithAbd/015_426_OS) | 0 | 0 | 0 | 0 |
 | gp15     | TBA   | Aima Khattak (2020058)<br>Izhan Shaur Awan (2020186) | [gp15 github link](https://github.com/Midnight29x/OS_Project.git) | 0 | 0 | 0 | 0 |
 | gp16     | TBA   | Fida Ali Baig (2020134)<br>Umar Riaz(2020503) | [gp16 github link](https://github.com/Fida2002/OS311) | 0 | 0 | 0 | 0 |
 | gp17.    | TBA.  | Abdullah Khan (2020026)<br>Danish(2020104) | [gp17 github link](https://github.com/abdullahkhn77/CS311_Project) | 0 | 0 | 0 | 0 |
