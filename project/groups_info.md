@@ -26,3 +26,4 @@ The details of the project groups are as follows:
 | gp20     | TBA   | Muhammad Adam Ch (2020261)<br>Muhammad Ibn e Muzammil (2020311) | [gp20 github link](https://github.com/Adam5626/OS_Fall22.git) | 0 | 0 | 0 | 0 |
 | gp21     | TBA   | Hamna Iftikhar (2020146)<br>Fatima Ghazenfer (2020129) | [gp21 github link](https://github.com/hamnaiftikhar/OS_Project) | 0 | 0 | 0 | 0 |
 | gp22     | TBA   | Mehak Kanwal (2020231)<br>Ahmed Hamid (2020052) | [gp22 github link](https://github.com/MehakKanwal30/OS_Project.git) | 0 | 0 | 0 | 0 |
+| gp23     | TBA   | Daniyal Umer Haral(2020107)<br>Asad Kamal (2020090) | [gp24 github link](https://github.com/daniyalumer/OS-Project-) | 0 | 0 | 0 | 0 |
