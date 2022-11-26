@@ -85,13 +85,16 @@ on [3b] or [3c].
 The submission instructions will be conveyed before the deadline. For the moment keep pushing commits to your own github repository.
 
 
-## Milestone 3: ~~Add a system call~~ TBD.
+## Milestone 3: Add a user program and/or a system call.
 1. You will add new system call to the OS and access it from a user
-level program. The exact details will be shared after the 2nd
-milestone deadline.
+level program or create a new user level program (command). See the link
+against your group in the groups_info.md file. Read the description on
+the link about your task and in case of queries contact the instructor. (30 marks)
 
+2. It is important that you get in the habit of working regularly. You can demonstrate this by pushing regular commits of your work to your own github repository. To get full marks, your code repository should have at least 3 commits (the more the better) pushed per week spaced roughly equidistant in time and each containing substantial amounts of work. (10 marks)
 ### Submission
-The submission instructions will be conveyed before the deadline.
+Commit your changes regularly to your git repository.
+Make sure you have shared the repository with your instructor.
 
 
 ## Milestone 4: Modify the OS
@@ -111,7 +114,7 @@ The submission instructions will be conveyed before the deadline.
 | --- | ----------- | ----- | ----------- |
 | 1   | Milestone 1 | 10    | Wesday, 16th Nov, 2022. |
 | 2   | Milestone 2 | 30    | Wesday, 23th Nov, 2022. |
-| 3   | Milestone 3 | 40    | Wesday, 30th Nov, 2022. |
+| 3   | Milestone 3 | 40    | Sunday, 2nd Dec, 2022. |
 | 4   | Milestone 4 | 120   | Sunday, 25th Dec, 2022. |
 
 ## References
