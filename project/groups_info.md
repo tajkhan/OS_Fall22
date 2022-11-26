@@ -23,7 +23,7 @@ The details of the project groups are as follows:
 | gp17.    | TBA.  | Abdullah Khan (2020026)<br>Danish(2020104) | [gp17 github link](https://github.com/abdullahkhn77/CS311_Project) | 0 | 0 | [nfiles](./m3/nfiles.txt) | 0 |
 | gp18     | TBA   | Imtesal Ameena (2020184)<br>Wardah Shakeel (2020518) | [github link](https://github.com/Wardahhh/XV6-env.git) | 0 | 0 | [head](./m3/head.txt)<br>[freepages](./m3/freepages.txt) | 0 |
 | gp19     | TBA   | Faizaan Talha Ayaz (2020120)<br>Muhammad Hashim (2020303) | [gp19 github link](https://github.com/Cy3ers/gp19_CS311Project.git) | 0 | 0 | [tail](./m3/tail.txt)<br>[readyprocs](./m3/readyprocs.txt) | 0 |
-| gp20     | TBA   | Muhammad Adam Ch (2020261)<br>Muhammad Ibn e Muzammil (2020311) | [gp20 github link](https://github.com/Adam5626/xv6_Private) | 0 | 0 | [mv][./m3/mv.txt) | 0 |
+| gp20     | TBA   | Muhammad Adam Ch (2020261)<br>Muhammad Ibn e Muzammil (2020311) | [gp20 github link](https://github.com/Adam5626/xv6_Private) | 0 | 0 | [mv](./m3/mv.txt) | 0 |
 | gp21     | TBA   | Hamna Iftikhar (2020146)<br>Fatima Ghazenfer (2020129) | [gp21 github link](https://github.com/hamnaiftikhar/OS_Project) | 0 | 0 | [ln](./m3/ln.txt) | 0 |
 | gp22     | TBA   | Mehak Kanwal (2020231)<br>Ahmed Hamid (2020052) | [gp22 github link](https://github.com/MehakKanwal30/OS_Project.git) | 0 | 0 | [cp](./m3/cp.txt) | 0 |
 | gp23     | TBA   | Muhammad Ishaq (2020313) | https://github.com/IshaqKHATTAK/operating-system-project | 0 | 0 | [trace](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/initial-xv6-tracer) | 0 |
