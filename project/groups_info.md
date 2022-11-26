@@ -22,8 +22,9 @@ The details of the project groups are as follows:
 | gp16     | TBA   | Fida Ali Baig (2020134)<br>Umar Riaz(2020503) | [gp16 github link](https://github.com/Fida2002/OS311) | 0 | 0 | 0 | 0 |
 | gp17.    | TBA.  | Abdullah Khan (2020026)<br>Danish(2020104) | [gp17 github link](https://github.com/abdullahkhn77/CS311_Project) | 0 | 0 | 0 | 0 |
 | gp18     | TBA   | Imtesal Ameena (2020184)<br>Wardah Shakeel(2020518) | [github link](https://github.com/Wardahhh/OS_Project.git) | 0 | 0 | 0 | 0 |
-| gp19     | TBA   | Faizaan Talha Ayaz (2020120)<br>Muhammad Hashim (2020303) | [gp19 github link](https://github.com/Cy3ers/CS311_Project) | 0 | 0 | 0 | 0 |
+| gp19     | TBA   | Faizaan Talha Ayaz (2020120)<br>Muhammad Hashim (2020303) | [gp19 github link](https://github.com/Cy3ers/gp19_CS311Project.git) | 0 | 0 | 0 | 0 |
 | gp20     | TBA   | Muhammad Adam Ch (2020261)<br>Muhammad Ibn e Muzammil (2020311) | [gp20 github link](https://github.com/Adam5626/OS_Fall22.git) | 0 | 0 | 0 | 0 |
 | gp21     | TBA   | Hamna Iftikhar (2020146)<br>Fatima Ghazenfer (2020129) | [gp21 github link](https://github.com/hamnaiftikhar/OS_Project) | 0 | 0 | 0 | 0 |
 | gp22     | TBA   | Mehak Kanwal (2020231)<br>Ahmed Hamid (2020052) | [gp22 github link](https://github.com/MehakKanwal30/OS_Project.git) | 0 | 0 | 0 | 0 |
-| gp23     | TBA   | Daniyal Umer Haral(2020107)<br>Asad Kamal (2020090) | [gp24 github link](https://github.com/daniyalumer/OS-Project-) | 0 | 0 | 0 | 0 |
+| gp23     | TBA   | Muhammad Ishaq (2020313) | https://github.com/IshaqKHATTAK/operating-system-project | 0 | 0 | 0 | 0 |
+| gp24     | TBA   | Daniyal Umer Haral(2020107)<br>Asad Kamal (2020090) | [gp24 github link](https://github.com/daniyalumer/OS-Project-) | 0 | 0 | 0 | 0 |

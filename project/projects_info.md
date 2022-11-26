@@ -111,7 +111,7 @@ The submission instructions will be conveyed before the deadline.
 | --- | ----------- | ----- | ----------- |
 | 1   | Milestone 1 | 10    | Wesday, 16th Nov, 2022. |
 | 2   | Milestone 2 | 30    | Wesday, 23th Nov, 2022. |
-| 3   | Milestone 3 | 40    | Wesday, 30th Dec, 2022. |
+| 3   | Milestone 3 | 40    | Wesday, 30th Nov, 2022. |
 | 4   | Milestone 4 | 120   | Sunday, 25th Dec, 2022. |
 
 ## References
