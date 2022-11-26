@@ -1,0 +1,12 @@
+Possible list of programs:
+ - find
+ - sleep
+ - wgrep
+
+
+
+Possible list of syscalls:
+ - getfreepages() # returns the number of pages in kernel freelist
+ - getreadyprocs() # returns the number of processes in the ready list
+ - getreadcount()
+ - getwritecount()

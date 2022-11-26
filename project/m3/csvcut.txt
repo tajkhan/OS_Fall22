@@ -1,0 +1,12 @@
+Implement the csvcut command.
+
+Syntax: csvcut -N FILEPATH
+
+Working: prints the Nth column of the FILEPATH where FILEPATH contains
+    a list of values separated by commas (,).
+
+Arguments:
+    -N: N is an integer specifying the column number. Column numbers
+    start from 1.
+    FILEPATH: the path or name, in current directory, of a .csv file.
+    The values in each line are separated by commas.

@@ -1,0 +1,5 @@
+Implement the pwd command.
+
+Syntax: pwd
+
+Working: it prints the current working directory of the user.

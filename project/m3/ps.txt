@@ -1,0 +1,6 @@
+Implement the ps command.
+
+Syntax: ps
+
+Working: it lists the names of all the processes currently running
+    on the system with their PIDs each on a separate line.

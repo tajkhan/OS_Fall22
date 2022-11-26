@@ -1,0 +1,11 @@
+Implement the touch command:
+
+Working: touch FILEPATH ...
+
+Working: Given one or more filenames/filepaths it creats them as empty
+    files. If any of the files already exists, it leaves it alone. If
+    it fails in creating any file, it outputs a message informing the
+    user about which file it failed to create.
+
+Arguments:
+    FILEPATH ... : one or more filenames or filepaths to be created.

@@ -1,0 +1,14 @@
+Implemnet the tree command (https://en.wikipedia.org/wiki/Tree_(command))
+
+Syntax: tree DIRPATH
+
+Working: it lists all the files and directories in the DIRPATH,
+    recursively, looking like a tree, i.e., the files further
+    down in the hierarchy are listed further to the right. Better
+    install the tree command on your linux system and see its
+    working.
+
+Arguments:
+    DIRPATH: the path to directory whose content is to be displayed.
+    If this argument is not provided, it should display the content
+    of the current directory.

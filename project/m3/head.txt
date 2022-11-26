@@ -1,0 +1,13 @@
+Implement the head command.
+
+Syntax: head -N FILEPATH
+
+Working: should display the first N lines of the file at FILEPATH.
+    If there are less than N lines in the file, then only display those.
+    If the option -N is not present, it should display the first 3 lines
+    by default.
+
+Arguents:
+    -N: N is an integer indicating number of lines to be displayed.
+    FILEPATH: can either a filepath or a filename. you should check for
+    its existance and output an error in case the file does not exist.

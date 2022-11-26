@@ -1,0 +1,2 @@
+Implement the trace system call on this link:
+[trace](https://pdos.csail.mit.edu/6.828/2022/labs/syscall.html)

@@ -1,0 +1,25 @@
+Implement the find command on this link:
+[find](https://pdos.csail.mit.edu/6.828/2022/labs/util.html)
+
+Implement the find command.
+
+Syntax: find [PATH] NAME
+
+Arguments:
+    PATH: path to the directory under which search will be performed.
+    When present, PATH will always preceed NAME. In case PATH is not present,
+    assume the current directory to be the PATH.
+
+    NAME: name of the file to be searched.
+
+Working: searches recursively for the file titled NAME at the given PATH.
+    In case any occurences of file titled NAME is found, it prints each
+    occurence on a separate line with a full path. If no occurence is found
+    it should print "File NAME not found at location PATH".
+
+Hints:
+   - Look at user/ls.c to see how to read directories.
+   - Use recursion to allow find to descend into sub-directories.
+   - Don't recurse into "." and "..".  
+   - xv6 does not provide string functions, you might have to make your own.
+   - put your solution in file called: user/find.c

@@ -1,0 +1,4 @@
+Implement the syscalls on this link:
+[trace](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/initial-xv6-tracer)
+
+Create a new user level program to show that the implementation works.

@@ -1,0 +1,13 @@
+Implement the uniq command.
+
+Syntax: uniq FILEPATH
+
+Working: it prints all the unique lines of the file, i.e., if any line
+    is repeated, it will be printed only once, at its first occurrence.
+    For simplicity, you can assume that the file will not contain more
+    than 100 lines and each line will have no more than 20 characters.
+    Check for the existance of the file and if missing output an error
+    message.
+
+ARGUMENTS:
+    FILEPATH: either a filepath or a name of a file in current directory.

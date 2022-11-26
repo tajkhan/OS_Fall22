@@ -1,0 +1,12 @@
+Implement the sort command.
+
+Syntax: sort FILEPATH
+
+Working: it sorts and prints all the lines of the file in sorted order.
+    For simplicity, you can assume that the file will not contain more
+    than 100 lines and each line will have no more than 20 characters.
+    Check for the existance of the file and if missing output an error
+    message.
+
+ARGUMENTS:
+    FILEPATH: either a filepath or a name of a file in current directory.

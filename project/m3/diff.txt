@@ -1,0 +1,16 @@
+Implement the diff command.
+
+Syntax: diff FILEPATH1 FILEPATH2
+
+Working: it should compare the two files line by line and output
+    the lines which are not the same in the two files. The outputted
+    lines should be preceeded by their line numbers and chevrons (>>>
+    for FILEPATH1 adn <<< for FILEPATH2). It before comparing it should
+    check whether FILEPATH1 or FILEPATH2 exist and output an error
+    if any of of the two does not.
+
+ARGUMENTS:
+    FILEPATH1: path of the first file to compare. could be full path
+    or a name in current directory.
+    FILEPATH2: path of the second file to compare. could be full path
+    or a name in current directory.
