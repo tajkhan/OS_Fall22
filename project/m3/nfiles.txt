@@ -1,0 +1,7 @@
+Implement nfiles command.
+
+Syntax: nfiles
+
+Working: prints the number of files in the hard disk.
+
+Arguments: None.

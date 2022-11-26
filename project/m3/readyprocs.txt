@@ -1,0 +1,2 @@
+Implement a system call getreadyprocs() which returns the number of
+process in the ready list.

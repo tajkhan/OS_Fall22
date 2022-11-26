@@ -1,0 +1,9 @@
+Implement the cp command.
+
+Syntax: cp FILEPATH1 FILEPATH2
+
+Working: copy the file on FILEPATH1 to FILEPATH2.
+
+Arguments:
+    FILEPATH1: full path or name, in current directory, of source file.
+    FILEPATH2: full path or name, in current directory, of dest file.

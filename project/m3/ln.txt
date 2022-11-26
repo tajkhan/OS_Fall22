@@ -1,0 +1,9 @@
+Implement the ln command.
+
+Syntax: ln FILEPATH1 FILEPATH2
+
+Working: creates a symbolic link (shortcut) to the FILEPATH1 at FILEPATH2.
+
+Arguments:
+    FILEPATH1: fullpath or name, in current directory, of the source file
+    FILEPATH2: fullpath or name, in current directory, of the dest file

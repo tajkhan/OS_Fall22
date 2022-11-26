@@ -1,0 +1,2 @@
+Implement a system call getfreepages() that returns the number of
+free pages in the kernel freelist.

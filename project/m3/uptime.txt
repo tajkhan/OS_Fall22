@@ -1,0 +1,7 @@
+Implement the uptime() system call that returns the uptime of the
+system in number_of_ticks since the start of the system.
+
+[One timer interrupt is a tick.]
+
+Write a user program called uptime that prints the uptime returned
+by the uptime() system call to the screen.
