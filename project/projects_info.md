@@ -98,15 +98,23 @@ Make sure you have shared the repository with your instructor.
 
 
 ## Milestone 4: Modify the OS
-This will be the meat of your project. The first 3 milestones were to
+This be the meat of your project. The first 3 milestones were to
 get you familiarized with the environment.  
 
-Each group will select a different topic after consultation with the
-instructor. Try to finalize your topic after the 2nd milestone so that
-you get ample time to start working on it.
+Each group has been assigned a topic. Six groups have the same topic. Read the descriptions provided on the links.  
+
+I highly recommend going through the xv6 book (References [2a]) and the video explanations (Misc xv-6 resoruces [4]) along with the xv6 code (References [2]) for this milestone.
+
+### The task
+1. Six groups have the same tasks so, in order to keep your updates private, you should each create a new **private** repository and add the instructor as a collaborator. You should add the link to this repository in group's line in the [groups_info.md](./groups_info.md) file below your first link. This milestone does not depend on the previous ones so you can start with a new copy of xv6 code. You are to finish this by **Thursday, 8/12/22**. (10 marks).  
+2. Implement your task as decribed on the link. Verify that it works correctly under different cases. (100 marks).
+3. It is important that you get in the habit of working regularly. You can demonstrate this by pushing regular commits of your work to your own github repository. To get full marks, your code repository should have at least 3 commits (the more the better) pushed per week spaced roughly equidistant in time and each containing substantial amounts of work. (10 marks)
 
 ### Submission
-The submission instructions will be conveyed before the deadline.
+You will submit by pushing your work on github. For this, you should share your **private** repository for this task with the instructor by adding the link in [groups_info.md](./groups_info.md) file and making the instructor your collaborator on github. Make sure the repository is not accessible by a third party.  
+Keep pushing your commits regularly every week on github.  
+
+The vivas will be in the last week of the semester.
 
 ## Rubric and deadlines:
 
